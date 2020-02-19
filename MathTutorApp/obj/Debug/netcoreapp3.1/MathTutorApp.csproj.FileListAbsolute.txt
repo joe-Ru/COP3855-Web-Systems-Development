@@ -1,0 +1,11 @@
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\MathTutorApp\bin\Debug\netcoreapp3.1\MathTutorApp.exe
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\MathTutorApp\bin\Debug\netcoreapp3.1\MathTutorApp.deps.json
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\MathTutorApp\bin\Debug\netcoreapp3.1\MathTutorApp.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\MathTutorApp\bin\Debug\netcoreapp3.1\MathTutorApp.runtimeconfig.dev.json
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\MathTutorApp\bin\Debug\netcoreapp3.1\MathTutorApp.dll
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\MathTutorApp\bin\Debug\netcoreapp3.1\MathTutorApp.pdb
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\MathTutorApp\obj\Debug\netcoreapp3.1\MathTutorApp.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\MathTutorApp\obj\Debug\netcoreapp3.1\MathTutorApp.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\MathTutorApp\obj\Debug\netcoreapp3.1\MathTutorApp.dll
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\MathTutorApp\obj\Debug\netcoreapp3.1\MathTutorApp.pdb
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\MathTutorApp\obj\Debug\netcoreapp3.1\MathTutorApp.csprojAssemblyReference.cache
