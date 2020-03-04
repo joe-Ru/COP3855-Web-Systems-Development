@@ -1,0 +1,11 @@
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\RealEstateInvestmentActivity\obj\Debug\netcoreapp3.1\RealEstateInvestmentActivity.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\RealEstateInvestmentActivity\obj\Debug\netcoreapp3.1\RealEstateInvestmentActivity.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\RealEstateInvestmentActivity\obj\Debug\netcoreapp3.1\RealEstateInvestmentActivity.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\RealEstateInvestmentActivity\bin\Debug\netcoreapp3.1\RealEstateInvestmentActivity.exe
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\RealEstateInvestmentActivity\bin\Debug\netcoreapp3.1\RealEstateInvestmentActivity.deps.json
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\RealEstateInvestmentActivity\bin\Debug\netcoreapp3.1\RealEstateInvestmentActivity.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\RealEstateInvestmentActivity\bin\Debug\netcoreapp3.1\RealEstateInvestmentActivity.runtimeconfig.dev.json
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\RealEstateInvestmentActivity\bin\Debug\netcoreapp3.1\RealEstateInvestmentActivity.dll
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\RealEstateInvestmentActivity\bin\Debug\netcoreapp3.1\RealEstateInvestmentActivity.pdb
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\RealEstateInvestmentActivity\obj\Debug\netcoreapp3.1\RealEstateInvestmentActivity.dll
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\RealEstateInvestmentActivity\obj\Debug\netcoreapp3.1\RealEstateInvestmentActivity.pdb

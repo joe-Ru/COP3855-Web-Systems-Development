@@ -1,0 +1,11 @@
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\JoggingProgram\obj\Debug\netcoreapp3.1\JoggingProgram.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\JoggingProgram\obj\Debug\netcoreapp3.1\JoggingProgram.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\JoggingProgram\obj\Debug\netcoreapp3.1\JoggingProgram.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\JoggingProgram\bin\Debug\netcoreapp3.1\JoggingProgram.exe
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\JoggingProgram\bin\Debug\netcoreapp3.1\JoggingProgram.deps.json
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\JoggingProgram\bin\Debug\netcoreapp3.1\JoggingProgram.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\JoggingProgram\bin\Debug\netcoreapp3.1\JoggingProgram.runtimeconfig.dev.json
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\JoggingProgram\bin\Debug\netcoreapp3.1\JoggingProgram.dll
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\JoggingProgram\bin\Debug\netcoreapp3.1\JoggingProgram.pdb
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\JoggingProgram\obj\Debug\netcoreapp3.1\JoggingProgram.dll
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\JoggingProgram\obj\Debug\netcoreapp3.1\JoggingProgram.pdb
