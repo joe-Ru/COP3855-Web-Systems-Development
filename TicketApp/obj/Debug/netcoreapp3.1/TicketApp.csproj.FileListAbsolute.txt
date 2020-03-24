@@ -1,0 +1,10 @@
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\TicketApp\obj\Debug\netcoreapp3.1\TicketApp.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\TicketApp\obj\Debug\netcoreapp3.1\TicketApp.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\TicketApp\bin\Debug\netcoreapp3.1\TicketApp.exe
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\TicketApp\bin\Debug\netcoreapp3.1\TicketApp.deps.json
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\TicketApp\bin\Debug\netcoreapp3.1\TicketApp.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\TicketApp\bin\Debug\netcoreapp3.1\TicketApp.runtimeconfig.dev.json
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\TicketApp\bin\Debug\netcoreapp3.1\TicketApp.dll
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\TicketApp\bin\Debug\netcoreapp3.1\TicketApp.pdb
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\TicketApp\obj\Debug\netcoreapp3.1\TicketApp.dll
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\TicketApp\obj\Debug\netcoreapp3.1\TicketApp.pdb

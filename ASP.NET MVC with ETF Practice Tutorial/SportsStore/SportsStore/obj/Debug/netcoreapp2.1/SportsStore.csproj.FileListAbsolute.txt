@@ -1,0 +1,5 @@
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.RazorAssemblyInfo.cache
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.RazorAssemblyInfo.cs
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.AssemblyInfo.cs

@@ -1,0 +1,11 @@
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\BonusCalculator\bin\Debug\netcoreapp3.1\BonusCalculator.exe
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\BonusCalculator\bin\Debug\netcoreapp3.1\BonusCalculator.deps.json
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\BonusCalculator\bin\Debug\netcoreapp3.1\BonusCalculator.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\BonusCalculator\bin\Debug\netcoreapp3.1\BonusCalculator.runtimeconfig.dev.json
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\BonusCalculator\bin\Debug\netcoreapp3.1\BonusCalculator.dll
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\BonusCalculator\bin\Debug\netcoreapp3.1\BonusCalculator.pdb
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\BonusCalculator\obj\Debug\netcoreapp3.1\BonusCalculator.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\BonusCalculator\obj\Debug\netcoreapp3.1\BonusCalculator.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\BonusCalculator\obj\Debug\netcoreapp3.1\BonusCalculator.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\BonusCalculator\obj\Debug\netcoreapp3.1\BonusCalculator.dll
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\BonusCalculator\obj\Debug\netcoreapp3.1\BonusCalculator.pdb

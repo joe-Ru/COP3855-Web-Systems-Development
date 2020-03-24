@@ -1,0 +1,10 @@
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\CarpetCalculator\CarpetCalculator\bin\Debug\netcoreapp3.1\CarpetCalculator.exe
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\CarpetCalculator\CarpetCalculator\bin\Debug\netcoreapp3.1\CarpetCalculator.deps.json
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\CarpetCalculator\CarpetCalculator\bin\Debug\netcoreapp3.1\CarpetCalculator.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\CarpetCalculator\CarpetCalculator\bin\Debug\netcoreapp3.1\CarpetCalculator.runtimeconfig.dev.json
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\CarpetCalculator\CarpetCalculator\bin\Debug\netcoreapp3.1\CarpetCalculator.dll
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\CarpetCalculator\CarpetCalculator\bin\Debug\netcoreapp3.1\CarpetCalculator.pdb
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\CarpetCalculator\CarpetCalculator\obj\Debug\netcoreapp3.1\CarpetCalculator.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\CarpetCalculator\CarpetCalculator\obj\Debug\netcoreapp3.1\CarpetCalculator.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\CarpetCalculator\CarpetCalculator\obj\Debug\netcoreapp3.1\CarpetCalculator.dll
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\CarpetCalculator\CarpetCalculator\obj\Debug\netcoreapp3.1\CarpetCalculator.pdb

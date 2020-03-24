@@ -1,0 +1,11 @@
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\LoanApp\bin\Debug\netcoreapp3.1\LoanApp.exe
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\LoanApp\bin\Debug\netcoreapp3.1\LoanApp.deps.json
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\LoanApp\bin\Debug\netcoreapp3.1\LoanApp.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\LoanApp\bin\Debug\netcoreapp3.1\LoanApp.runtimeconfig.dev.json
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\LoanApp\bin\Debug\netcoreapp3.1\LoanApp.dll
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\LoanApp\bin\Debug\netcoreapp3.1\LoanApp.pdb
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\LoanApp\obj\Debug\netcoreapp3.1\LoanApp.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\LoanApp\obj\Debug\netcoreapp3.1\LoanApp.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\LoanApp\obj\Debug\netcoreapp3.1\LoanApp.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\LoanApp\obj\Debug\netcoreapp3.1\LoanApp.dll
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\LoanApp\obj\Debug\netcoreapp3.1\LoanApp.pdb
