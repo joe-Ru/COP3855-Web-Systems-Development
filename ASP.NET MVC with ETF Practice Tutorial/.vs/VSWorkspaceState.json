@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\instructions",
+    "\\SportsStore",
+    "\\SportsStore\\SportsStore",
+    "\\SportsStore\\SportsStore\\Properties",
+    "\\SportsStore\\SportsStore\\Properties\\Controllers",
+    "\\SportsStore\\SportsStore\\Properties\\Models",
+    "\\SportsStore\\SportsStore\\Properties\\Views"
+  ],
+  "SelectedNode": "\\SportsStore\\SportsStore.sln",
+  "PreviewInSolutionExplorer": false
+}
