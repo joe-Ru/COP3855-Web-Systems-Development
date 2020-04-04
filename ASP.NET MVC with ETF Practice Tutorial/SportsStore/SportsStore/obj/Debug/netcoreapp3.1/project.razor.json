@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\Gabriel\\Desktop\\Spring 2020\\COP3855 Web Systems Development\\ASP.NET MVC with ETF Practice Tutorial\\SportsStore\\SportsStore\\SportsStore.csproj",
+  "FilePath": "c:\\Users\\Gabriel\\Desktop\\Spring 2020 Github\\COP3855 Web Systems Development\\COP3855-Web-Systems-Development\\ASP.NET MVC with ETF Practice Tutorial\\SportsStore\\SportsStore\\SportsStore.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -20521,23 +20521,23 @@
   "RootNamespace": "SportsStore",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\Gabriel\\Desktop\\Spring 2020\\COP3855 Web Systems Development\\ASP.NET MVC with ETF Practice Tutorial\\SportsStore\\SportsStore\\Properties\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Properties\\Views\\_ViewImports.cshtml",
+      "FilePath": "c:\\Users\\Gabriel\\Desktop\\Spring 2020 Github\\COP3855 Web Systems Development\\COP3855-Web-Systems-Development\\ASP.NET MVC with ETF Practice Tutorial\\SportsStore\\SportsStore\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Gabriel\\Desktop\\Spring 2020\\COP3855 Web Systems Development\\ASP.NET MVC with ETF Practice Tutorial\\SportsStore\\SportsStore\\Properties\\Views\\_Layout.cshtml",
-      "TargetPath": "Properties\\Views\\_Layout.cshtml",
+      "FilePath": "c:\\Users\\Gabriel\\Desktop\\Spring 2020 Github\\COP3855 Web Systems Development\\COP3855-Web-Systems-Development\\ASP.NET MVC with ETF Practice Tutorial\\SportsStore\\SportsStore\\Views\\Product\\List.cshtml",
+      "TargetPath": "Views\\Product\\List.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Gabriel\\Desktop\\Spring 2020\\COP3855 Web Systems Development\\ASP.NET MVC with ETF Practice Tutorial\\SportsStore\\SportsStore\\Properties\\Views\\Product\\List.cshtml",
-      "TargetPath": "Properties\\Views\\Product\\List.cshtml",
+      "FilePath": "c:\\Users\\Gabriel\\Desktop\\Spring 2020 Github\\COP3855 Web Systems Development\\COP3855-Web-Systems-Development\\ASP.NET MVC with ETF Practice Tutorial\\SportsStore\\SportsStore\\Views\\_Layout.cshtml",
+      "TargetPath": "Views\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Gabriel\\Desktop\\Spring 2020\\COP3855 Web Systems Development\\ASP.NET MVC with ETF Practice Tutorial\\SportsStore\\SportsStore\\Properties\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Properties\\Views\\_ViewStart.cshtml",
+      "FilePath": "c:\\Users\\Gabriel\\Desktop\\Spring 2020 Github\\COP3855 Web Systems Development\\COP3855-Web-Systems-Development\\ASP.NET MVC with ETF Practice Tutorial\\SportsStore\\SportsStore\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     }
   ],

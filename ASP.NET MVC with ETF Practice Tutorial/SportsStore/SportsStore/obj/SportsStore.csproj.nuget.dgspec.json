@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gabriel\\Desktop\\Spring 2020\\COP3855 Web Systems Development\\ASP.NET MVC with ETF Practice Tutorial\\SportsStore\\SportsStore\\SportsStore.csproj": {}
+    "C:\\Users\\Gabriel\\Desktop\\Spring 2020 Github\\COP3855 Web Systems Development\\COP3855-Web-Systems-Development\\ASP.NET MVC with ETF Practice Tutorial\\SportsStore\\SportsStore\\SportsStore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gabriel\\Desktop\\Spring 2020\\COP3855 Web Systems Development\\ASP.NET MVC with ETF Practice Tutorial\\SportsStore\\SportsStore\\SportsStore.csproj": {
+    "C:\\Users\\Gabriel\\Desktop\\Spring 2020 Github\\COP3855 Web Systems Development\\COP3855-Web-Systems-Development\\ASP.NET MVC with ETF Practice Tutorial\\SportsStore\\SportsStore\\SportsStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriel\\Desktop\\Spring 2020\\COP3855 Web Systems Development\\ASP.NET MVC with ETF Practice Tutorial\\SportsStore\\SportsStore\\SportsStore.csproj",
+        "projectUniqueName": "C:\\Users\\Gabriel\\Desktop\\Spring 2020 Github\\COP3855 Web Systems Development\\COP3855-Web-Systems-Development\\ASP.NET MVC with ETF Practice Tutorial\\SportsStore\\SportsStore\\SportsStore.csproj",
         "projectName": "SportsStore",
-        "projectPath": "C:\\Users\\Gabriel\\Desktop\\Spring 2020\\COP3855 Web Systems Development\\ASP.NET MVC with ETF Practice Tutorial\\SportsStore\\SportsStore\\SportsStore.csproj",
+        "projectPath": "C:\\Users\\Gabriel\\Desktop\\Spring 2020 Github\\COP3855 Web Systems Development\\COP3855-Web-Systems-Development\\ASP.NET MVC with ETF Practice Tutorial\\SportsStore\\SportsStore\\SportsStore.csproj",
         "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabriel\\Desktop\\Spring 2020\\COP3855 Web Systems Development\\ASP.NET MVC with ETF Practice Tutorial\\SportsStore\\SportsStore\\obj\\",
+        "outputPath": "C:\\Users\\Gabriel\\Desktop\\Spring 2020 Github\\COP3855 Web Systems Development\\COP3855-Web-Systems-Development\\ASP.NET MVC with ETF Practice Tutorial\\SportsStore\\SportsStore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
