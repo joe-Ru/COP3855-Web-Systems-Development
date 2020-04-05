@@ -1,0 +1,139 @@
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.exe
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.deps.json
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.runtimeconfig.dev.json
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.dll
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.pdb
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.Views.dll
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.Views.pdb
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.BrowserLink.dll
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\staticwebassets\SportsStore.StaticWebAssets.Manifest.cache
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\staticwebassets\SportsStore.StaticWebAssets.xml
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorAssemblyInfo.cache
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorAssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.TagHelpers.input.cache
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.TagHelpers.output.cache
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorCoreGenerate.cache
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\Razor\Properties\Views\Product\List.cshtml.g.cs
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\Razor\Properties\Views\_Layout.cshtml.g.cs
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\Razor\Properties\Views\_ViewImports.cshtml.g.cs
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\Razor\Properties\Views\_ViewStart.cshtml.g.cs
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorTargetAssemblyInfo.cache
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorTargetAssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.Views.pdb
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.csproj.CopyComplete
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.dll
+C:\Users\Gabriel\Desktop\Spring 2020\COP3855 Web Systems Development\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.pdb
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.exe
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.deps.json
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.runtimeconfig.json
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.runtimeconfig.dev.json
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.dll
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.pdb
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.Views.dll
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.Views.pdb
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.BrowserLink.dll
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\staticwebassets\SportsStore.StaticWebAssets.Manifest.cache
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\staticwebassets\SportsStore.StaticWebAssets.xml
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorAssemblyInfo.cache
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorAssemblyInfo.cs
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.TagHelpers.input.cache
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.TagHelpers.output.cache
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorCoreGenerate.cache
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorTargetAssemblyInfo.cache
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorTargetAssemblyInfo.cs
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.Views.pdb
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.csproj.CopyComplete
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.dll
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.pdb
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Product\List.cshtml.g.cs
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\_Layout.cshtml.g.cs
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.exe
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.deps.json
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.runtimeconfig.json
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.runtimeconfig.dev.json
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.dll
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.pdb
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.Views.dll
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.Views.pdb
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.BrowserLink.dll
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorAssemblyInfo.cache
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorAssemblyInfo.cs
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.TagHelpers.input.cache
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.TagHelpers.output.cache
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorCoreGenerate.cache
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Product\List.cshtml.g.cs
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorTargetAssemblyInfo.cache
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorTargetAssemblyInfo.cs
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.Views.pdb
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.csproj.CopyComplete
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\obj\Debug\netcoreapp3.1\staticwebassets\SportsStore.StaticWebAssets.Manifest.cache
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\obj\Debug\netcoreapp3.1\staticwebassets\SportsStore.StaticWebAssets.xml
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.dll
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.pdb
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Gabriel\Desktop\ASP.NET MVC with ETF Practice Tutorial\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
